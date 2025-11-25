@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Bizim Ev - LoveSync",
+  "description": "Ev arkadaşları ve çiftler için oyunlaştırılmış ev düzeni uygulaması.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

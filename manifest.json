@@ -1,0 +1,21 @@
+{
+  "name": "Bizim Ev",
+  "short_name": "Bizim Ev",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/25/25694.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/25/25694.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
